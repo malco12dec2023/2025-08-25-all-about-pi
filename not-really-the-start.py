@@ -38,3 +38,34 @@ plural noun: ingredients
 > Ultimate: Expensive card readers that one can flex. Tehe.
 > One is supposed to have a computer to cook some Raspberry Pi.
 """
+
+#CookingProcedures
+"""
+Step 0. Google it. Youtube it. Raspberry Pi Official Documents.
+> Use a computer (desktop or laptop), preferrably with Windows OS.
+> Download Raspberry Pi Imager and Raspberry Pi  OS.
+>> Install Raspberry Pi Imager. Then run.
+>> Explore the Raspberry Pi Imager.
+>> Use some reading comprehension skills or just ask AI.
+
+Step 1a. Hint.
+> Use custom OS, the downloaded Raspberry Pi  OS.
+> Choose storage device, the Micro-SD Card.
+> Edit and save settings.
+>> raspberrypi.local
+>> user: pi
+>> pass: raspberry
+>> set wireless network: ssid and key
+>> Country and Timezone
+> Other settings.
+>> Keyboard
+>> Enable SSH
+> Proceed and wait for process to finish.
+
+Step 1b. Eject, plug, and play.
+> Eject Micro-SD Card from computer and reader.
+> Insert (plug) Micro-SD Card to Raspberry Pi SBC.
+> Connect (plug) Power Supply to Raspberry Pi SBC (Micro-USB Port).
+> Connect (plug) Power Supply to electrical outlet (Power Source).
+> Play while Raspberry Pi SBC connects to the wireless network. Tehe.
+"""
