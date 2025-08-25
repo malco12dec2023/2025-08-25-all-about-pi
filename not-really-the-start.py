@@ -68,4 +68,13 @@ Step 1b. Eject, plug, and play.
 > Connect (plug) Power Supply to Raspberry Pi SBC (Micro-USB Port).
 > Connect (plug) Power Supply to electrical outlet (Power Source).
 > Play while Raspberry Pi SBC connects to the wireless network. Tehe.
+
+Step 1c. Network success.
+> In a computer or any other device...
+> connected to the same network...
+> as the Raspberry Pi SBC:
+> download, install and run a Network Scanner (Fing or Angry IP Scanner),
+> download, install and run a/an SSH/Terminal Clients (Termius or Putty),
+> download, install and run a/an SSH/Terminal Clients (RealVNC or TigerVNC).
+>> Identify the RPSBC from the scanned devices and note the IP address.
 """
